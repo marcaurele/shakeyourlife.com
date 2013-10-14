@@ -4,7 +4,13 @@ Author: marcaurele
 Tags: kitesurfing, fiji
 Slug: fiji-week
 
-![][] ![][1] ![][2] ![][3] ![][4] ![][5] ![][6]
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-21-13h39m59.JPG_w89_cw89_ch67.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-21-13h49m13.JPG_h89_cw67_ch89.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-09h17m19.JPG_h89_cw67_ch89.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-10h29m11.JPG_w89_cw89_ch67.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h45m33.JPG_w89_cw89_ch67.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h45m46.JPG_w89_cw89_ch67.jpg)
+![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-24-07h06m53.JPG_w89_cw89_ch67.jpg)
 
 After the feeling of the fresh air reaching New-Zealand, it was
 definitively time to head off for Fiji and its tropical climate. I
@@ -25,7 +31,7 @@ to Nananu island.
 Even if it was already a bit late for Fiji time, guests were still in
 the terrace drinking... a day without wind!
 
-[![][7]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-14h41m32.JPG_h480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-22-14h41m32.JPG.php)
 
 The weather forecast was pretty flat for the next following days... No
 wind on Sunday, neither Monday and Tuesday! One of the reason I chose
@@ -34,7 +40,7 @@ other activities. Sunday I went with Anthony to do some sea-kayaking and
 snorkeling on another part of the island. After noon we all gave a try
 to waterskiing, wakeboarding or kneeboarding. It was great fun!
 
-[![][8]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-19-13h35m07.JPG_w480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-19-13h35m07.JPG.php)
 
 On Monday we all went to a reef a few kilometers off-shore for either
 snorkeling or on my side for spearfishing. What a great new activity I
@@ -81,9 +87,9 @@ to clean the fishes on the beach for an epic sushi session with the
 walu. Eating fresh slices of walu dipped in soja sauce on a Fijian beach
 by noon couldn’t be better, what a blast!
 
-[![][9]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-13h31m14.JPG_h480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-22-13h31m14.JPG.php)
 
-[![][10]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-13h52m24.JPG_w480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-22-13h52m24.JPG.php)
 
 Anyway, in the afternoon while seating with Anthony and Malu on the deck
 of the beach front bure, the sea started to look promising with more and
@@ -96,7 +102,7 @@ there, and much stronger out in the bay :-) Everyone went on the water
 for a good first kite session in Fiji. I stopped only when it was almost
 dark as I didn’t want to miss any minutes of kiting.
 
-[![][11]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-11h31m33.JPG_w480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-23-11h31m33.JPG.php)
 
 Thursday was the big day of the week for me! Since I had to leave on
 Friday morning to catch my next flights, it was the last chance to set a
@@ -129,7 +135,7 @@ pack my luggage and to prepare my broken kite for the day I would find a
 sail fixer in Tahiti or Hawaii. For Tahiti, I will most certainly use
 only my 9m2 which is a good way to get started with the unhooked jumps.
 
-[![][12]][]
+[![](http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h44m35.JPG_w480.jpg)](http://photos.shakeyourlife.com/Fiji/2009-04-23-14h44m35.JPG.php)
 
 Friday morning, I left early for the airport with the feeling of a great
 week in Fiji even though I haven’t been kiting every day. All the other
@@ -138,22 +144,4 @@ activities and people there gave me a wicked time on the island!
 All the pictures about the week in Fiji:
 <http://photos.shakeyourlife.com/Fiji/>
 
-  []: http://photos.shakeyourlife.com/cache/Fiji/2009-04-21-13h39m59.JPG_w89_cw89_ch67.jpg
-  [1]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-21-13h49m13.JPG_h89_cw67_ch89.jpg
-  [2]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-09h17m19.JPG_h89_cw67_ch89.jpg
-  [3]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-10h29m11.JPG_w89_cw89_ch67.jpg
-  [4]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h45m33.JPG_w89_cw89_ch67.jpg
-  [5]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h45m46.JPG_w89_cw89_ch67.jpg
-  [6]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-24-07h06m53.JPG_w89_cw89_ch67.jpg
-  [7]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-14h41m32.JPG_h480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/Fiji/2009-04-22-14h41m32.JPG.php
-  [8]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-19-13h35m07.JPG_w480.jpg
-  [![][8]]: http://photos.shakeyourlife.com/Fiji/2009-04-19-13h35m07.JPG.php
-  [9]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-13h31m14.JPG_h480.jpg
-  [![][9]]: http://photos.shakeyourlife.com/Fiji/2009-04-22-13h31m14.JPG.php
-  [10]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-22-13h52m24.JPG_w480.jpg
-  [![][10]]: http://photos.shakeyourlife.com/Fiji/2009-04-22-13h52m24.JPG.php
-  [11]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-11h31m33.JPG_w480.jpg
-  [![][11]]: http://photos.shakeyourlife.com/Fiji/2009-04-23-11h31m33.JPG.php
-  [12]: http://photos.shakeyourlife.com/cache/Fiji/2009-04-23-14h44m35.JPG_w480.jpg
-  [![][12]]: http://photos.shakeyourlife.com/Fiji/2009-04-23-14h44m35.JPG.php
+
