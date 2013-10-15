@@ -4,17 +4,11 @@ Author: marcaurele
 Tags: bungeejump, nepal
 Slug: bungee-jump-at-the-last-resort
 
-<div class="left-insert">
-![][]
-
-</div>
 
 The bungee jump at the Last Resort in Nepal was great, a huge jump for
 my first one. And I really liked it. I would have done another one if
 you didn't have to walk all the way back from down the river, it took
 around 20 minutes...
-
-<!--break--><!--break-->
 
 I'm not the one jumping on the video. It's a Nepali guy, and most of
 them were really scared since they couldn't "jump"... they seemed to
@@ -24,13 +18,11 @@ And watch carefully the elastic during the jump, by the end of the video
 it isn't even stretched ;-)
 
 <div class="video">
-
-[Bungee jump at the Last Resort, Nepal][] from [Marc-Aurele Brothier][]
-on [Vimeo][].
-
+<object width="400" height="302">
+	<param name="allowfullscreen" value="true" />
+	<param name="allowscriptaccess" value="always" />
+	<param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2582498&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />
+	<embed src="http://vimeo.com/moogaloop.swf?clip_id=2582498&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="302"></embed>
+</object>
+<p><a href="http://vimeo.com/2582498">Bungee jump at the Last Resort, Nepal</a> from <a href="http://vimeo.com/user655055">Marc-Aurele Brothier</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 </div>
-
-  []: http://images.vimeo.com/22/45/39/224539699/224539699_100.jpg
-  [Bungee jump at the Last Resort, Nepal]: http://vimeo.com/2582498
-  [Marc-Aurele Brothier]: http://vimeo.com/user655055
-  [Vimeo]: http://vimeo.com
