@@ -21,15 +21,10 @@ doing right now ;-)
 
 And if you better understand with pictures, here are the steps
 
-![][]
+![GPS step 1]({filename}/images/slide-01.png)
 
-![][1]
+![GPS step 2]({filename}/images/slide-02.png)
 
-![][2]
+![GPS step 3]({filename}/images/slide-03.png)
 
-![][3]
-
-  []: http://shakeyourlife.com/sites/shakeyourlife.com/files/slide-01.png
-  [1]: http://shakeyourlife.com/sites/shakeyourlife.com/files/slide-02.png
-  [2]: http://shakeyourlife.com/sites/shakeyourlife.com/files/slide-03.png
-  [3]: http://shakeyourlife.com/sites/shakeyourlife.com/files/slide-04.png
+![GPS message on website]({filename}/images/slide-04.png)
