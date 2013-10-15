@@ -4,10 +4,7 @@ Author: marcaurele
 Tags: book
 Slug: blink-the-power-of-thinking-without-thinking
 
-<div class="left-insert">
-![][]
-
-</div>
+![](http://shakeyourlife.com/sites/shakeyourlife.com/files/blink.jpg)
 
 I'm done with some reading, excellent one actually. If you want to read
 something refreshing for your mind, and to get to know why sometimes
@@ -16,7 +13,6 @@ stereotypes, and how they can be overloaded by too much information...
 Some ideas on what is going on on your subconscious level. I can
 recommend you this excellent book!
 
-<!--break--><!--break-->
 
 What I found so nice in this book is all the information you're
 processing on a subconscious level. It can come from your experience,
@@ -29,5 +25,3 @@ me a comment here.
 
 I will post on the blog all the good books I will be reading during my
 big holidays for you.
-
-  []: http://shakeyourlife.com/sites/shakeyourlife.com/files/blink.jpg

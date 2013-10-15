@@ -13,8 +13,6 @@ Argentina, to the Mercedario, I started to dream again about long ...
 long ... long vacations. And also because I wanted to do something big
 for special birthday this year...
 
-<!--break-->
-
 I want to take time to explore new countries and new cultures/people,
 also to do more photography, as well as sports of course. Last year,
 when I decided to go for it (definitively) I thought about all the
