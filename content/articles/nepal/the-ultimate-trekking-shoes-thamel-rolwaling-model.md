@@ -87,10 +87,10 @@ give you a crazy price of 3 euros for each pair!!! Amaaaziiingg!
 
   [Tetes a claques - Le Willi Waller]: http://www.tetesaclaques.tv/video.php?vid=30
   [Tetes a claques - Le LCD Shovel]: http://www.tetesaclaques.tv/video.php?vid=42
-  []: http://shakeyourlife.com/sites/shakeyourlife.com/files/thamel-rolwaling.jpg
-  [1]: http://shakeyourlife.com/sites/shakeyourlife.com/files/4840m.jpg
-  [2]: http://shakeyourlife.com/sites/shakeyourlife.com/files/water-friendly.jpg
-  [3]: http://shakeyourlife.com/sites/shakeyourlife.com/files/with-headlight.jpg
-  [4]: http://shakeyourlife.com/sites/shakeyourlife.com/files/blisters.jpg
-  [5]: http://shakeyourlife.com/sites/shakeyourlife.com/files/bad-fliflop.jpg
-  [6]: http://shakeyourlife.com/sites/shakeyourlife.com/files/sun-tun.jpg
+  []: {filename}/images/thamel-rolwaling.jpg
+  [1]: {filename}/images/4840m.jpg
+  [2]: {filename}/images/water-friendly.jpg
+  [3]: {filename}/images/with-headlight.jpg
+  [4]: {filename}/images/blisters.jpg
+  [5]: {filename}/images/bad-fliflop.jpg
+  [6]: {filename}/images/sun-tun.jpg

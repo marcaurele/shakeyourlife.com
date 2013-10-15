@@ -4,7 +4,7 @@ Author: marcaurele
 Tags: book
 Slug: blink-the-power-of-thinking-without-thinking
 
-![](http://shakeyourlife.com/sites/shakeyourlife.com/files/blink.jpg)
+![]({filename}/images/blink.jpg)
 
 I'm done with some reading, excellent one actually. If you want to read
 something refreshing for your mind, and to get to know why sometimes

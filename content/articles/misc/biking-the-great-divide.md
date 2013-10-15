@@ -9,7 +9,7 @@ trip without something very demanding at the and of my trip as it was at
 the beginning. So I decided to join two English guys to bike the Great
 Divide with them.
 
-![Great Divide](http://shakeyourlife.com/sites/shakeyourlife.com/files/great_divide_set.gif)
+![Great Divide]({filename}/images/great_divide_set.gif)
 
 I met Simon when I was between my expeditions in Nepal and during the
 many hours we all gathered together with the group, we talked about our
