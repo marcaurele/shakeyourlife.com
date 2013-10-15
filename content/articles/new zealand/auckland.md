@@ -10,7 +10,7 @@ something around 10 hours. I made it through the Bio Security check with
 my dry food and my camping gears. They checked them, but I got
 everything back :-)
 
-[![][]][]
+[![Auckland by night](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-20h35m09.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-20h35m09.JPG.php)
 
 I looked around to find my van, first at the backpackers market, which
 sucks because it's really expensive and there is nothing you want to
@@ -23,16 +23,16 @@ the bed, curtains... and we did everything at his place with his tools,
 really nice from him! Otherwise I don't really know how I would have
 fixed everything. I'll take some shots of the inside one day, I promise.
 
-[![][1]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-26-10h00m02.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-26-10h00m02.JPG.php)
 
 On the life side of Auckland I could enjoy the Christmas eve parties
 thanks to some girls at the backpackers who knew a kiwi guy in Auckland,
 with who we went out. Lots of fun and drinks of course, for a different
 Christmas eve night.  
 
-[![][2]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-24-20h52m51.JPG_h480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-24-20h52m51.JPG.php)
 
-[![][3]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-24-22h30m55.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-24-22h30m55.JPG.php)
 
 And for Christmas day, Cambell, the owner of Verandhas, organized a big
 BBQ for the people staying at the hostel, and his friends/family. So we
@@ -45,15 +45,15 @@ will be able to do another one during a summer time!
 
 Grill number 1  
 
-[![][4]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m18.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m18.JPG.php)
 
 Grill number 2  
 
-[![][5]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m24.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m24.JPG.php)
 
 The big table  
 
-[![][6]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m34.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m34.JPG.php)
 
 Yes we had a lot of food!
 
@@ -73,25 +73,7 @@ And then my sister, brother-in-law Tijn, and their baby Louis arrived on
 Christmas day, so after the van was done, with a lot of delay than
 initially planned, we went to the North to see friends.
 
-[![][7]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-27-17h10m04.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-27-17h10m04.JPG.php)
 
 That was a good start for New-Zealand... And now let's be on the road
 like a gypsy in my van to visit this fantastic outdoor country!
-
-  []: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-20h35m09.JPG_w480.jpg
-    "Auckland by night"
-  [![][]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-20h35m09.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-26-10h00m02.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-26-10h00m02.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-24-20h52m51.JPG_h480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-24-20h52m51.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-24-22h30m55.JPG_w480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-24-22h30m55.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m18.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m18.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m24.JPG_w480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m24.JPG.php
-  [6]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-25-12h32m34.JPG_w480.jpg
-  [![][6]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-25-12h32m34.JPG.php
-  [7]: http://photos.shakeyourlife.com/cache/New-Zealand/Auckland/2008-12-27-17h10m04.JPG_w480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/New-Zealand/Auckland/2008-12-27-17h10m04.JPG.php

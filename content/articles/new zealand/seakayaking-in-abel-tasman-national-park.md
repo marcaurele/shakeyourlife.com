@@ -4,7 +4,7 @@ Author: marcaurele
 Tags: kayak, new-zealand
 Slug: seakayaking-in-abel-tasman-national-park
 
-[![][]][]  
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h13m16.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/%20Abel%20Tasman%20National%20Park/2009-01-18-14h13m16.JPG.php)  
 
 Don’t be spoiled by this picture, it’s been really 3 hard days for me to
 paddle on the Abel Tasman coast. The weather was really bad, strong
@@ -37,20 +37,20 @@ was only 1 single guy in the group with the 2 other couples. Any kayak
 experience? None... I’m sitting in the back, no choice for the 1st day
 at least.
 
-[![][1]][]  
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-10h24m41.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-10h24m41.JPG.php)  
 
 We started to load all the kayaks and our gears on a motor boat for the
 ride to the most northern point of the trip, since we will paddle only
 one way.
 
-[![][2]][]  
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-11h19m22.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-11h19m22.JPG.php)  
 
 After unloading everything from the taxi boat, well, it was time to load
 the kayaks and of course, as the guide could guess that I will be a
 propeller, we got more loads than the over ones. But I’m not
 complaining, it wasn’t so much harder anyway.
 
-[![][3]][]  
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-12h17m57.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-12h17m57.JPG.php)  
 
 Now, time to get onto the sea and paddle this beautiful coast with a
 happy mate in front of me who can enjoy paddling with his very private
@@ -71,23 +71,23 @@ Here are some of the nice pictures:
 
 Seal  
 
-[![][4]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-15h51m36.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-15h51m36.JPG.php)
 
 George, the dolphin  
 
-[![][5]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-17h17m31-001.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-17h17m31-001.JPG.php)
 
 Sunrise at Onetahuti bay  
 
-[![][6]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-06h16m23.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-06h16m23.JPG.php)
 
 Lunch break on a beach  
 
-[![][7]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h02m25.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h02m25.JPG.php)
 
 Position, speed, distance with my GPS Suunto X10 watch  
 
-[![][8]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-10h40m23.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-10h40m23.JPG.php)
 
 Oh I know, it doesn’t really look like your canteen, but you can always
 change of work and become a sea kayak instructor in Abel Tasman ;-)
@@ -121,34 +121,10 @@ locals.
 Jealous after all of this? I will only say one thing as the sea birds:
 baaaaahhhhh  
 
-[![][9]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-13h44m38.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-13h44m38.JPG.php)
 
 All the pictures are at the usual place, and here is the direct link to
 the album of this amazing trip:
-[http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20P...][]
+<http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/>
 
 A must do if you’re coming here!
-
-  []: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h13m16.JPG_w480.jpg
-  [![][]]: http://photos.shakeyourlife.com/New-Zealand/%20Abel%20Tasman%20National%20Park/2009-01-18-14h13m16.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-10h24m41.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-10h24m41.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-11h19m22.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-11h19m22.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-12h17m57.JPG_w480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-12h17m57.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-15h51m36.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-15h51m36.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-17h17m31-001.JPG_w480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-16-17h17m31-001.JPG.php
-  [6]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-06h16m23.JPG_w480.jpg
-  [![][6]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-06h16m23.JPG.php
-  [7]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h02m25.JPG_w480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-14h02m25.JPG.php
-  [8]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-10h40m23.JPG_w480.jpg
-  [![][8]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-17-10h40m23.JPG.php
-  [9]: http://photos.shakeyourlife.com/cache/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-13h44m38.JPG_w480.jpg
-  [![][9]]: http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/2009-01-18-13h44m38.JPG.php
-  [http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20P...]:
-    http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/
-    "http://photos.shakeyourlife.com/New-Zealand/Abel%20Tasman%20National%20Park/"

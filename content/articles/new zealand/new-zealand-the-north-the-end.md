@@ -26,20 +26,20 @@ a dead-end point on a map but it's worth the trip. The bay is incredible
 and the climb on Castle rock gives you the best overview of the East
 coast. And the surfing bay looks pretty good.  
 
-[![][]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-16-09h12m17.JPG_h480.jpg)](http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-16-09h12m17.JPG.php)
 
 I drove through Napier, the art-deco city of New-Zealand, very nice to
 visit, and Gisborne before arriving to the East Cape. It’s one part of
 the North island where you have the highest ratio of Maori people
 living.  
 
-[![][1]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-17-12h10m05.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-17-12h10m05.JPG.php)
 
 After the East Cape I went to Mount Maunganui/Tauranga to visit some
 friends I met in Nepal. I met again a Czech guy I paddled with in
 Murchison to do some surfing for an afternoon.  
 
-[![][2]][]  
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-21-12h28m32.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-21-12h28m32.JPG.php)  
 
 The day after I went with Barb & Dereck to Rotorua to do the
 International Walk day: people from all over the world coming to take a
@@ -59,7 +59,7 @@ was mid-day! It was definitively my winter day of my stay in
 New-Zealand. We were super happy to find again the heat on the other
 side of the mountain.  
 
-[![][3]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/Tongariro%20Alpine%20Crossing/2009-03-24-12h37m42.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/Tongariro%20Alpine%20Crossing/2009-03-24-12h37m42.JPG.php)
 
 The last place on my todo list in New-Zealand was the Coromandel. I got
 a tip from some german kitesurfers I met in Nelson who told me that Port
@@ -77,7 +77,7 @@ nightmare of gusty wind with no proper place to kite... But I ended my
 kite sessions in New-Zealand with a strong 30 knots wind on ninety miles
 beach.  
 
-[![][4]][]
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-26-19h42m06.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-26-19h42m06.JPG.php)
 
 I spent time in Auckland to figure out the next traveling destinations
 of my trip and to try to sell my van. Selling the van wasn’t an easy
@@ -104,17 +104,4 @@ A big thank you to all the Jacks for: Flick, Dan, Mike, Caro, Madison,
 Belinda, Duncan and Deb for making my stay in New-Zealand such a
 tremendous experience with their generosity, time and love.  
 
-[![][5]][]
-
-  []: http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-16-09h12m17.JPG_h480.jpg
-  [![][]]: http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-16-09h12m17.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-17-12h10m05.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-17-12h10m05.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-21-12h28m32.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-21-12h28m32.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/New-Zealand/Tongariro%20Alpine%20Crossing/2009-03-24-12h37m42.JPG_w480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/New-Zealand/Tongariro%20Alpine%20Crossing/2009-03-24-12h37m42.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2009-03-26-19h42m06.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/New-Zealand/North%20Island/2009-03-26-19h42m06.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2008-12-29-18h59m29.JPG_w480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/New-Zealand/North%20Island/2008-12-29-18h59m29.JPG.php
+[![](http://photos.shakeyourlife.com/cache/New-Zealand/North%20Island/2008-12-29-18h59m29.JPG_w480.jpg)](http://photos.shakeyourlife.com/New-Zealand/North%20Island/2008-12-29-18h59m29.JPG.php)
