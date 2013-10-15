@@ -4,13 +4,11 @@ Author: marcaurele
 Tags: kitesurfing, traveling, french polynesia
 Slug: raivavae-australes-island-1-french-polynesia
 
-[![][]][]  
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-29-08h19m00.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-29-08h19m00.JPG.php)
 
 This was my first stop in the Australes archipelago. The island receives
 very little tourists and therefore it is still an authentic Polynesian
 island.
-
-</p>
 
 There isn’t any French people living on the island except of one
 photographer who doesn’t seem to be there very often. I went to the
@@ -20,11 +18,7 @@ stories to tell me about the island and how is the life there. Since I
 was the only guest in the pension I spent my 2 evenings talking with
 her.
 
-</p>
-
-[![][1]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-10h28m28.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-10h28m28.JPG.php)
 
 For my full day on the island I wanted to go on the gorgeous pool motu
 (motu piscine or motu Vaiamanu - a motu is a small sand island) after
@@ -38,9 +32,7 @@ on my gears to set up everything. The wind wasn’t strong enough
 though... I put down my kite hoping for some more wind and took a swim
 instead. What a blast in this turquoise warm water!  
 
-[![][2]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-12h33m24.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-12h33m24.JPG.php)
 
 Finally the wind was blowing pretty strong and I went kiting on this
 paradise lagoon. No pictures of course ;-) I was over excited for this
@@ -48,9 +40,7 @@ first session in French Polynesia. I heard from the locals what I was
 also the first one to come and to kite in the lagoon! Finally I did a
 premiere kiting and not climbing in Himalayas ;-)  
 
-[![][3]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-12h32m43.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-12h32m43.JPG.php)
 
 One of the stories of the island, which is sad, is about a Swiss 78
 years old man who came on this island. He fell in love with the place
@@ -64,16 +54,12 @@ which she agreed to give him. Everyone agreed for him to stay, but at
 the end the French authorities didn’t allow him to stay and he had to go
 back to Switzerland.
 
-</p>
-
 At this pension I got only local dishes and I had to take some of the
 recipes to try to make them at home: Ipo – a kind of coconut bread; and
 the raw fish in the Tahitian way, which I can eat every single day; plus
 the grated mangos with carrots as a salad with dressing... yami yami!  
 
-[![][4]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-17h42m25.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-17h42m25.JPG.php)
 
 On my departure I got the chance to see the most cheerful ceremony at
 the airport! Part of the kids of the island had to go back to Papeete as
@@ -89,9 +75,7 @@ What a special moment with all those kids around and this ceremony. I
 was blasted by the love they were giving to each other, all the people
 of Raivavae.  
 
-[![][5]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-29-07h49m26.JPG_h480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-29-07h49m26.JPG.php)
 
 I also fell in love with this place and I want to come back there...
 Especially since there is a little paradise bungalow on a motu next the
@@ -99,34 +83,13 @@ the pool motu. A very rustic one with no electricity, no real comfort,
 but that’s worth much more than any 5 stars bungalow over any lagoon you
 can find in French Polynesia.  
 
-[![][6]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-15h28m47.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-15h28m47.JPG.php)
 
 Raivavae, my little lost paradise on Earth!  
 
-[![][7]][]
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-10h28m13.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-10h28m13.JPG.php)
 
-</p>
+[All the pictures of Raivavae](http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/)
 
-[All the pictures of Raivavae][]
 
-</p>
 
-  []: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-29-08h19m00.JPG_w480.jpg
-  [![][]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-29-08h19m00.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-10h28m28.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-10h28m28.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-12h33m24.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-12h33m24.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-12h32m43.JPG_w480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-12h32m43.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-17h42m25.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-17h42m25.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-29-07h49m26.JPG_h480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-29-07h49m26.JPG.php
-  [6]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-15h28m47.JPG_w480.jpg
-  [![][6]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-15h28m47.JPG.php
-  [7]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Raivavae/2009-04-28-10h28m13.JPG_w480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/2009-04-28-10h28m13.JPG.php
-  [All the pictures of Raivavae]: http://photos.shakeyourlife.com/French%20Polynesia/Raivavae/
