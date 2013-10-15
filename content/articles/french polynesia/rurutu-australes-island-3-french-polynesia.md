@@ -4,7 +4,7 @@ Author: marcaurele
 Tags: traveling, french polynesia
 Slug: rurutu-australes-island-3-french-polynesia
 
-[![][]][]  
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h18m50.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h18m50.JPG.php)
 
 I went on Rurutu as it was part of the Australes islands and also to see
 where a very good friend used to live for a couple of years. The normal
@@ -14,8 +14,6 @@ doesn't have a lagoon but just a few "kind of" beaches.
 I spent days biking on the island to take pictures of places my friend
 Yvan told me about, to try to find his previous houses, and maybe people
 who knew him or his parents as they were teachers.
-
-</p>
 
 The first day wasn't a great one for the bikes. The guest house where I
 was staying had another guess for once, so I wasn't alone. First time...
@@ -34,26 +32,18 @@ wasn't so glad to see us coming back with broken bikes as it means to
 ship spare parts from Tahiti and even to call the bike shops as there
 were more new bikes broken.
 
-</p>
+Moreai village
 
-Moreai village  
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h30m21.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h30m21.JPG.php)
 
-[![][1]][]
+Coast line
 
-</p>
-
-Coast line  
-
-[![][2]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h58m01.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h58m01.JPG.php)
 
 The island is covered of so much natural resources, you can just pick
 anything from the side of the road. No one would say anything  
 
-[![][3]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-11h12m01.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-11h12m01.JPG.php)
 
 On the second day I went to the other village where Yvan used to live,
 to hopefully have a better luck finding the house and people who
@@ -63,9 +53,7 @@ streets, asked a few people of my age if they knew Yvan but no luck. As
 it was time for a lunch I stopped at the only snack available and
 started to talk with the people there.  
 
-[![][4]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-14h06m36.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-14h06m36.JPG.php)
 
 One hour later one person in the kitchen remembered the name (or heard
 it). I was finally happy to have found someone. Without telling me she
@@ -75,16 +63,12 @@ coffee Antonio came by as he's been told someone who knew Yvan's family
 was at the snack. He came with this old picture what Richard took from
 his students  
 
-[![][5]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-13h05m28.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-13h05m28.JPG.php)
 
 He proposed me to go to his home to see his wife and to show me the
 house where Yvan's family used to live.  
 
-[![][6]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-13h28m05.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-13h28m05.JPG.php)
 
 I didn't have the time to go around on the island with Antonio to see
 where he used to go and play with Yvan but that will be for next time.
@@ -93,39 +77,15 @@ well. The people are so welcoming there in Avera, I loved my 3 hours at
 the snack to talk with the locals about my trip, their life on the
 island and French Polynesia.
 
-</p>
+Avera
 
-Avera  
-
-[![][7]][]
-
-</p>
+[![](http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-14h24m24.JPG_w480.jpg)](http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-14h24m24.JPG.php)
 
 The Australes islands were so great. I loved all of the three I visited,
 each in a different way, but most important all the locals are very nice
 and it isn't a super touristic destination which give you the chance to
 see the local culture.
 
-</p>
-
 More pictures over here:
 <http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/>
 
-</p>
-
-  []: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h18m50.JPG_w480.jpg
-  [![][]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h18m50.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h30m21.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h30m21.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-10h58m01.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-10h58m01.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-02-11h12m01.JPG_w480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-02-11h12m01.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-14h06m36.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-14h06m36.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-13h05m28.JPG_w480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-13h05m28.JPG.php
-  [6]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-13h28m05.JPG_w480.jpg
-  [![][6]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-13h28m05.JPG.php
-  [7]: http://photos.shakeyourlife.com/cache/French%20Polynesia/Rurutu/2009-05-03-14h24m24.JPG_w480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/French%20Polynesia/Rurutu/2009-05-03-14h24m24.JPG.php
