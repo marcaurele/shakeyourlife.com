@@ -10,22 +10,14 @@ celebrate my birthday than Kathmandu since the night-life isn't
 pollution! And there is a french restaurant here. The menu for tonight
 sounds good already.
 
-</p>
-
 Maybe tomorrow, I'll be able to do some kayaking, with a playboat!
 That's going to be so fun!!! It's been a long time since my last kayak
 run.
-
-</p>
 
 Thanks to everyone for your messages for this special day! I reset the
 counter today... from 9 to 0. Let's start again for another decade of
 fun, adventures, laughs and much more with all of you! It doesn't start
 badly as you can see ;-)
 
-</p>
-
 Biz to all of you - Marco
-
-</p>
 

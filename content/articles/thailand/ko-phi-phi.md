@@ -23,20 +23,14 @@ one! The only problem with the buckets, especially the sangsom, it hurts
 the day after usually. But on the other hand it means you had a great
 night last night :-)
 
-</p>
-
 Expect of the partying, I did some diving which pull me away from the
 bars for one night, and also to have some sleep... good!  
 
 The weather wasn't so great, it was raining every afternoon/night for at
 least one hour.
 
-</p>
-
 Phi-phi is more expensive than most of the place in Thailand, but still
 it's cheaper than any other country.
-
-</p>
 
 And I had my biggest nightmare on Phi-phi. When I went to register for
 the dive at the shop (Visa diving), I left my camera on the table and
@@ -63,17 +57,11 @@ are ;-)
 A good lesson for me... I won't let it be out of my bag or pocket
 anymore! I really really don't want to loose any pictures.
 
-</p>
-
 By the way, the temperature when diving at 20m deep is 28 degrees... So
 I guess it should be something around 30 or more on the beach, and
 outside it's even warmer. What's the weather like in Europe :-p ?
 
-</p>
-
 PS: I didn't take with me the cable to transfer my pictures, but they
 will come when I'm back in Bangkok and I will update the different
 posts.
-
-</p>
 

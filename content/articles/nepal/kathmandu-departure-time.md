@@ -13,8 +13,6 @@ only about to pull down its shutters when one guy saw it and throw a
 rock at it. Luckily for the owner, it bounced on the shutters. All of
 them had rocks in both hands, and not small one!
 
-</p>
-
 When I left the Hotel, there were any richsaw, neither any taxi in the
 street of Thamel. With the guys of the Hotel who helped me we walked out
 of Thamel to hopefully find one at the big crossing, but nothing there
@@ -34,6 +32,4 @@ At each crossing, the bus stopped 300m before to see if other police
 officers were doing any sign to go further or to stop and wait. Finally
 the bus reached the airport without any troubles, but it was the only
 vehicle at the airport, no taxi, no minibus.
-
-</p>
 

@@ -14,8 +14,6 @@ peak and to pass the Tesi Lapcha to continue in the Khumbu region
 (Everest region) with the Everest Base Camp and Gokio lakes. Let’s say
 that it was the original plan, on the day we were leaving Kathmandu.
 
-</p>
-
 On day 1, we took the bus to Singati with the best places, just behind
 the driver. It’s a relief to leave Kathmandu and its pollution,
 especially for me who spent almost 2 weeks here. The beginning of the
@@ -29,8 +27,6 @@ On the last stop before the rocky road, a group jumped into the bus with
 2 Germans that were doing the same trek as us. So the bus was pretty
 crowed for the bumpy road, which helps to smooth the suspension of the
 bus.
-
-</p>
 
 On day 2, we started the walk to reach Jagat. We could feel how heavy
 our backpacks were. Dehydrated food for almost 2 weeks (\~14kg), tent,
@@ -54,8 +50,6 @@ was nicer than the next village.
 
 At the lodge, I took my last cold shower until ...
 
-</p>
-
 On the third day, we woke up with pains in the shoulders and in the
 legs, but we knew we weren’t going to carry as much as we did the
 previous day :-) We walked with our flip-flops. Gilles must have them
@@ -71,8 +65,6 @@ we eat a TravelLunch when we arrived at the lodge before taking a nap.
 We didn’t wait for the porters due to the rain... And at the end of the
 walk, I had 3 leeches between my toes which turned in red my flip-flop
 each time.
-
-</p>
 
 The next day was supposed to be an easy day, but we did a mistake. We
 arrived quite early at the next village, around 2pm, which was supposed
@@ -100,8 +92,6 @@ a super nice Nepali guy, Dawa Shirri Sherpa. Our 2 porters came just a
 few minutes after we arrived in the house, and we had diner all
 together. We were 9 sleeping in the house since no one wanted to
 continue to Beding. Some food and some sleep, what’s all we wanted!
-
-</p>
 
 During the next days we split our load to keep only what we needed for
 the Chekigo, and left it in Na. We walked up to the high camp for the
@@ -139,8 +129,6 @@ went down pissed off and said to Gilles that I was going straight down
 to Na to get a hold on this bastard. Hopefully I will be back tomorrow
 with a helicopter as well, in the early morning before the clouds are
 coming.
-
-</p>
 
 I walked fast to Na, and thought that in the lodge where we left our
 bag, there was a satellite phone. The lodge was closed since the guy
@@ -197,8 +185,6 @@ went straight in my sleeping bag to have a rest and discuss with Gilles,
 and had some fooooood! I explained him everything about our situation
 and our missing gears.
 
-</p>
-
 The day after, we had a terrible day to go down. It started with a nice
 weather and we walked all the way to the last ruins of houses. There I
 enjoyed a nice sun break for one hour waiting for Gilles to come down.
@@ -207,8 +193,6 @@ mean, a real bad one. It started to snowy-rain when we were walking in
 the super steep part, with our nice heavy load.... a pleasure. By the
 time we reached the village, we were completely wet, and also Gilles’s
 sleeping bag by the way.
-
-</p>
 
 For the way back we took 2 porters as well and this time it was 2 women.
 And they were much fitter for the job than us... If any of you have
@@ -223,8 +207,6 @@ In the lodge, we saw a drunk guy going down the stairs and getting back
 with another bottle of whisky... The kind of guy you’re hopping that
 won’t be the bus driver for tomorrow... As you can guess, he was our bus
 driver! He didn’t seem to have any hangover at all at least.
-
-</p>
 
 And then, your bus roof trip started, at 6.30am from Singati, the
 longest bus trip we ever did in Nepal. It took 15 hours to reach
@@ -244,11 +226,7 @@ on the roof grid since after 2 hours of heavy bumpy road, we couldn’t
 find any comfortable position so sit anymore. So guess how you would be
 after 15 hours.
 
-</p>
-
 And of course you can find the pictures other here:
 <http://photos.shakeyourlife.com/Nepal/Rolwaling%20Himal%20Trek/>
-
-</p>
 
   [www.kodamatrek.com]: http://www.kodamatrek.com "www.kodamatrek.com"

@@ -8,28 +8,21 @@ I left Lausanne six months ago, but it feels like an eternity! So many
 things happened since then, but the best of all for me, is that I still
 have another six months left to do even more crazy stuff.
 
-</p>
 <!--break--><!--break-->
 
 For this special date, I had to celebrate it, so I bought some NZ
 Champagne (alike) and drank all by myself since I was alone on my beach
 this night.
 
-</p>
-
 <div class="video">
-</p>
 
 [Encore 6 mois la vie facile][] from [Marc-Aurele Brothier][] on
 [Vimeo][].
 
 </div>
-</p>
 
 And yes I will be back mid-september 2009 in Lausanne... and more news
 later about a big adventure I'm preparing.
-
-</p>
 
   [Encore 6 mois la vie facile]: http://vimeo.com/3673381
   [Marc-Aurele Brothier]: http://vimeo.com/user655055

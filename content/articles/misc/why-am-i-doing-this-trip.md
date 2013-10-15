@@ -13,7 +13,6 @@ Argentina, to the Mercedario, I started to dream again about long ...
 long ... long vacations. And also because I wanted to do something big
 for special birthday this year...
 
-</p>
 <!--break-->
 
 I want to take time to explore new countries and new cultures/people,
@@ -56,6 +55,4 @@ So stay tuned with my website (and the RSS feed for the geeks who knows
 what it is) and don't blame me if you can't work after viewing the
 pictures I will put on the website ... it's one of my goal ... to make
 you jealous and dream about other places in the world :-)
-
-</p>
 

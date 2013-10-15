@@ -9,18 +9,13 @@ preview of the first 80 pages. A couple of pages that are missing in the
 preview are the ones with a daily picture during our 19 days in the
 moutain. You can really see the "evolution" of our body.
 
-</p>
-
 If you wish to get a printout of the book I did after the expedition in
 Argentina to the Mercedario, drop me an email. I will send you the
 "invitation" to order it.
 
-</p>
 <!--break--><!--break-->
 
 ### Description
-
-</p>
 
 -   120 pages in color
 -   Hard cover
@@ -29,14 +24,10 @@ Argentina to the Mercedario, drop me an email. I will send you the
 -   Comments are in French
 -   Price: \~70 euros (depending on the shipping)
 
-</p>
-
 ### Pages preview
 
-</p>
-
 <div class="bookpreview">
-</p>
+
 ![][]  
 
 ![][1]  
@@ -121,7 +112,6 @@ Argentina to the Mercedario, drop me an email. I will send you the
 
 <p>
 </div>
-</p>
 
   []: http://shakeyourlife.com/sites/shakeyourlife.com/files/argentina-book-preview-00.jpg
   [1]: http://shakeyourlife.com/sites/shakeyourlife.com/files/argentina-book-preview-01.jpg

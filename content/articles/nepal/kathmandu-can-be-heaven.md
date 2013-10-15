@@ -17,11 +17,7 @@ the place to visit in Kathmandu! Spend an afternoon there to relax and
 enjoy life again when you are tired of the busy streets of the city and
 (or) your last trek.
 
-</p>
-
 ![][]
-
-</p>
 
 The blues festival started 2 days ago, but it was for sure the best
 evening in the Garden of Dreams. For us it was more like the Garden of
@@ -61,16 +57,10 @@ with my stomach afterward. When the evening ended, we didn’t want to go
 back in the streets of Kathmandu. We wished to stay in our little
 paradise for the night.
 
-</p>
-
 ![][1]
-
-</p>
 
 You can find all the photos in the album [Blues Festival Garden of
 Dreams][]
-
-</p>
 
   []: http://photos.shakeyourlife.com/cache/Nepal/Blues%20Festival%20-%20Garden%20Of%20Dreams/2008-10-17-17h58m33.JPG_w480.jpg
     "Garden of Dreams"

@@ -9,11 +9,7 @@ trip without something very demanding at the and of my trip as it was at
 the beginning. So I decided to join two English guys to bike the Great
 Divide with them.
 
-</p>
-
 ![][]
-
-</p>
 
 I met Simon when I was between my expeditions in Nepal and during the
 many hours we all gathered together with the group, we talked about our
@@ -30,8 +26,6 @@ with me. It's half true. I spent again days with Simon in New-Zealand
 hiking and traveling, but I don't know yet Ollie. It's his cousin, so no
 worries!
 
-</p>
-
 So here I am, with my untrained legs since many months whiling to bike
 for 4400km! No you're not dreaming! It's really long... And moreover
 it's through the Rocky mountains from Banff in Canada, to Antelope Wells
@@ -43,8 +37,6 @@ messages on ShakeYourLife.com and I might post some personal stories on
 it. So now you will have 2 websites to look at during the summer to keep
 you busy if the financial crisis isn't giving you enough work ;)
 
-</p>
-
 And here you go -\> <http://www.bikingthegreatdivide.com>  
 
 There is a link in the left menu as well in case you'll forget it ;)  
@@ -52,11 +44,7 @@ There is a link in the left menu as well in case you'll forget it ;)
 You will find all the information regarding the team, the route, the
 preparation...
 
-</p>
-
 Am I gonna survive with the Grizzlies? Lack of water? Desert & heat in
 New-Mexico? Reply in a many weeks...
-
-</p>
 
   []: http://shakeyourlife.com/sites/shakeyourlife.com/files/great_divide_set.gif

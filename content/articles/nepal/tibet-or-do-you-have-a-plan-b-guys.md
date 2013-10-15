@@ -14,8 +14,6 @@ reach the Lhapka La pass (\~6700m). On the other side of the pass, there
 is the Tibetan Everest advanced base camp. We would be back to Everest
 base camp at Rongbuk, from where we would take the jeep back to Nepal.
 
-</p>
-
 But the expedition needs to be organized through the Tibetan trek
 agency, which means that you will have porters, a guide and a cooker. A
 full expedition team... for just 2 guys... Oh yes, and you can’t skip it
@@ -30,14 +28,8 @@ Moreover I heard last week that the Chinese were not giving permits for
 the Everest advanced base camp, so we wouldn’t be allowed to do our
 route. Maybe it changed now, but it won’t change our decision.
 
-</p>
-
 We won’t go to Tibet :-(
-
-</p>
 
 Time to get ready for plan B... (you should always have a plan B, we
 learnt it in Argentina)
-
-</p>
 

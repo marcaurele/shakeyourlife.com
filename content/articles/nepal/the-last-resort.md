@@ -23,8 +23,6 @@ looking forward to do another one in New-Zealand.
 The resort is very nice and we had a nice time there relaxing. There
 isn’t that much to do around.
 
-</p>
-
 The second day we went for a rafting trip, which was the river we drove
 by to the resort. I was disappointed since they told us that it was a
 class 4. For me it didn’t look like (for the people who doesn’t know
@@ -52,9 +50,5 @@ So this “Ultimate Rivers” day was boring, and luckily we met nice people
 in the group with whom we discussed on the way back. By the end of the
 trip, they all came to our Hotel Potala to stay for the night.
 
-</p>
-
 The pictures will come later, I can't upload them at the cyber :-(
-
-</p>
 

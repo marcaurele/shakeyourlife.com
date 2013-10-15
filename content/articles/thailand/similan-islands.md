@@ -43,23 +43,15 @@ what have you in front of you... A perfect bay, exactly this one
 
 ![][]
 
-</p>
-
 And each sunset and sunrise are magic...  
 
 ![][1]
 
-</p>
-
 This diving trip is really beautiful and I’ll try to do it again next
 time I’m going in Thailand.
 
-</p>
-
 All the pictures are at this address
 <http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/>
-
-</p>
 
   []: http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-09h53m24.JPG_h480.jpg
   [1]: http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG_w480.jpg

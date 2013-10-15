@@ -17,8 +17,6 @@ superb bungalows with the sea view for almost nothing (Thailand is
 empty, so it’s cheaper :-) It was the perfect place to chill out, which
 we did for the days I spent there.
 
-</p>
-
 It’s been mostly beach time, riding the scooter on the steep hills, and
 chatting with people, and of course some partying. Four days after the
 full moon party, there’s the blue moon party on Ko Tao in the jungle. We
@@ -28,9 +26,5 @@ was pretty empty but the decoration was almost just worth to go there.
 If it would have been full of people, it would have been a crazy night!
 The best outside decoration I ever seen for a jungle party :-)
 
-</p>
-
 <http://photos.shakeyourlife.com/Thailand/Ko%20Tao/>
-
-</p>
 

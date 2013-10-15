@@ -9,8 +9,6 @@ Slug: tubuai-australes-island-2-french-polynesia
 My second stop in the Australes was Tubuai, the place to kite as I found
 on the kitesurf website of [Tahiti-kitesurf][].
 
-</p>
-
 I went to the same guesthouse as proposed by the author since the
 kitesurf started to be a family affair, [pension vaiteanui][]. When I
 arrived of course, it was only windy in the morning when the plane
@@ -20,8 +18,6 @@ wind...
 
 [![][1]][]
 
-</p>
-
 The wind is hiding again! I went back to leave my gears and went for a
 tour of the area instead. I stopped by the weather station building and
 talked for at least one hour with the guy about the wind condition as
@@ -30,16 +26,12 @@ about the island since he came the first time about 25 years ago.
 
 [![][2]][]
 
-</p>
-
 Due to this long discussion I missed the triathlon organized on the
 island. I didn’t plan to participate but I wished to take some pictures.
 There were only some kids left playing around and other people training
 in the pirogue.  
 
 [![][3]][]
-
-</p>
 
 But then came the day, the real day! I spent the morning talking at the
 guesthouse with Wilson Doom, the president of the kitesurfing
@@ -64,15 +56,11 @@ be stronger, and it was! What an awesome spot
 
 [![][4]][]
 
-</p>
-
 He helped me to launch my kite and watched me during my session. The
 wind was pretty good and I could start to work on my wakeboard kick jump
 style. The color of the water was almost as great as on Raivavae. I
 wished I wasn't alone to go out to the reef to play with the waves.
 Thanks Hiro for showing me the right spot!
-
-</p>
 
 The day after, well the wind was gone but it was the occasion to go for
 a bike circuit around the island where I could meet some locals. I
@@ -86,55 +74,37 @@ I didn't make all the way around but took the middle road to get back to
 town and to see the pirogue race going on that I heard about from the
 locals. So here are a few shots of the islands, enjoy.
 
-</p>
-
 A local house  
 
 [![][6]][]
-
-</p>
 
 A beach  
 
 [![][7]][]
 
-</p>
-
 Moutains! It's a high island as they called it  
 
 [![][8]][]
-
-</p>
 
 A window over Polynesia, who doesn't wish such a view ?  
 
 [![][9]][]
 
-</p>
-
 Inside the island  
 
 [![][10]][]
-
-</p>
 
 Pirogue race  
 
 [![][11]][]
 
-</p>
-
 Kids playing  
 
 [![][12]][]
 
-</p>
-
 Greetings after the race  
 
 [![][13]][]
-
-</p>
 
 At the guest house, I spoke a lot with Heinui and Boris, the owners.
 They told me where to find a bike, where were the kite spots depending
@@ -152,12 +122,8 @@ there one day, to kite from Motu One :-)
 
 [![][14]][]
 
-</p>
-
 All the pictures:
 <http://photos.shakeyourlife.com/French%20Polynesia/Tubuai/>
-
-</p>
 
   []: http://photos.shakeyourlife.com/cache/French%20Polynesia/Tubuai/2009-05-01-11h35m16.JPG_w480.jpg
   [![][]]: http://photos.shakeyourlife.com/French%20Polynesia/Tubuai/2009-05-01-11h35m16.JPG.php

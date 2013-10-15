@@ -9,9 +9,5 @@ I realized that the photos weren't ordered as they should in the albums
 you didn't get the story from the pictures' order, you can have another
 look now and it will be much easier to understand the slideshow.
 
-</p>
-
 <http://photos.shakeyourlife.com>
-
-</p>
 

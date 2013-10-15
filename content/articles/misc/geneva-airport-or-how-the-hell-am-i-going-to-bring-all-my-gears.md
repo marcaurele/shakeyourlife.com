@@ -20,8 +20,6 @@ big backpack. She was just asking why I couldn’t pack it smaller since
 it didn’t fit in the plastic case for the luggage’s ramp. I just
 replied: well you know, if I could, I will have packed it smaller but...
 
-</p>
-
 While I was sitting to wait for the boarding, many people looked at me
 and were wondering where I was going. It might be rainy in Geneva, but
 we are not in winter time. I had my mountaineering shoes (big yellow
@@ -55,9 +53,5 @@ While we were getting speed on the runway, I had a thought for Geneva &
 Switzerland in general since for once, the next time I will be here
 should be in many many many weeks.
 
-</p>
-
 See you guys!
-
-</p>
 

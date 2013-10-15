@@ -12,11 +12,7 @@ before going any further in this post, please have a look at this video
 [Tetes a claques - Le Willi Waller][] or [Tetes a claques - Le LCD
 Shovel][]
 
-</p>
-
 ![][]
-
-</p>
 
 The “Thamel – Rolwaling” are the shoes, the ultimate shoes, the ultimate
 trekking shoes. With them, you will walk up to 5000m (\*eventually
@@ -24,41 +20,25 @@ wearing socks, \*\*skip bad weather you never how it could end). And
 this, even down to the beach! Shoes that can be used in such an altitude
 range, amazing!
 
-</p>
-
 ![][1]
-
-</p>
 
 Oh come’on Marco what kind of bullshit are you talking now, are you
 going to think. But, that’s not all, they aren’t waterproof, but let you
 clean your foots in rivers and dry very quickly while walking. Woaaahh
 
-</p>
-
 ![][2]
-
-</p>
 
 Easy to wear, you can wake up in the middle of the night in your tent or
 lodge and get out to do the thing which woke you up with no hassle. You
 can even add a head-light at night (the light system could cost more
 than the shoes!)
 
-</p>
-
 ![][3]
-
-</p>
 
 You will never have blisters again (ask Gilles for any explanation on
 how to get very very very bad blisters, he’s mastering the subject!)
 
-</p>
-
 ![][4]
-
-</p>
 
 You will look super trendy among the locals who are always checking your
 shoes (porters can’t look up...) If you have Gilles model, the old
@@ -68,11 +48,7 @@ during our trek! Definitively, it is the last trend in Nepal, major
 trekking country. And please, throw away your old dady flip-flop, you
 will look like a crappy guy, and they aren’t so robust.
 
-</p>
-
 ![][5]
-
-</p>
 
 They are super light and can be easily attached to your backpack  
 
@@ -92,11 +68,7 @@ tattoo for free by the end of your holidays (or maybe sooner). The holes
 are perfect to get a new suntan (for the moment, no other pattern
 available)
 
-</p>
-
 ![][6]
-
-</p>
 
 And you will find the Thamel Rolwaling for their original price, at 5
 euros in Kathmandu, Thamel area. But for you my friend, only you, and if
@@ -105,8 +77,6 @@ price of 4 euros. Uuuunnnbelievable!!! And if you are ready to get those
 Thamel Rolwaling for your whole family (at least 5 pairs), I’m ready to
 give you a crazy price of 3 euros for each pair!!! Amaaaziiingg!
 
-</p>
-
 \* credit card accepted  
 
 \*\* stock limited  
@@ -114,8 +84,6 @@ give you a crazy price of 3 euros for each pair!!! Amaaaziiingg!
 \*\*\* price doesn’t include shipment fees  
 
 ;-)
-
-</p>
 
   [Tetes a claques - Le Willi Waller]: http://www.tetesaclaques.tv/video.php?vid=30
   [Tetes a claques - Le LCD Shovel]: http://www.tetesaclaques.tv/video.php?vid=42

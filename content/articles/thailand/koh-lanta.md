@@ -11,8 +11,6 @@ up on a beach :-) Something I was dreaming since the last cold night at
 being here for a week, I start to find it a bit chilly sometimes. It's
 really easy to get use to the heat.
 
-</p>
-
 So I came to Thailand to go diving, and I went straight to different
 diving center on Koh Lanta to find one to do my PADI, the open water.
 With Scuba Lanta, I finally ended up doing the advance as well to enjoy
@@ -30,8 +28,6 @@ about the life you can have in Chamonix (ski resort in France), it's
 kind of the same but different ("same same but different" as you would
 say here).
 
-</p>
-
 I did 7 dives here on 2 spots Koh Bida and Koh Haa. The marine life is
 so colorful and full of life. There're fishes everywhere and the game is
 to recognize them afterward, or to find a specific one underwater. My
@@ -41,12 +37,8 @@ tomorrow... And I wish I had a camera with a waterproof box... I saw
 pictures from the instructor, Guillaume, and it's amazing the color you
 can get. I didn't believe it before I saw his pictures.
 
-</p>
-
 The plan for tomorrow is to go to the famous Hin Dang diving spot and
 hopefully to see manta rays... That's a dream to swim around them... And
 maybe more leopard shark or whale shark ... One of the best spot in
 Thailand! More live news with my GPS messages tomorrow.
-
-</p>
 

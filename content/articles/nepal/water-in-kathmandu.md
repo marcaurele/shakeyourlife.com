@@ -16,8 +16,6 @@ no additives or chemicals used in the process.
 
 FREE FROM PATHOGENS
 
-</p>
-
 This one is super clean, isn’t it? If they’re writing so much on how
 clean it is, I’m wondering what you could find in the water from the
 tap...  
@@ -35,14 +33,10 @@ since everyone is slow... Gilles was laughing in the middle of the
 crossing. This mess in the Nepali way was really too much not to laugh
 at.
 
-</p>
-
 And today... it’s raining again, and not just a few drops. It’s the end
 of the monsoon, an end that I hope will be tomorrow. The other problem
 is that the rivers get bigger and it might certainly be snowing in the
 mountains. Should have we brought our snowboard this time?
-
-</p>
 
 And last week they were striking because of the government wanted to
 stop giving money to a festival for the animal sacrifices which occurs
@@ -51,6 +45,4 @@ were closed in Thamel yesterday, again for another strike... To allow
 the restaurant to close later. Are we going to have a bus strike when we
 will try to leave Kathmandu? I’m going to feel a bit like in France
 soon...
-
-</p>
 

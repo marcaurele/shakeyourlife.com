@@ -10,33 +10,21 @@ to stay 5 days only on Ko Lanta, and ended up staying 10 days instead. I
 guess I only made it to Khao Lak because I booked the diving trip,
 otherwise I might got stuck in the middle on Phiphi...
 
-</p>
-
 You're always meeting nice people in Thailand, and everyone is happy to
 be there. You can see this on every single face around you. The only
 ones who looks bad are the ones who crashed on their motorbike or
 scooter... they look bad!
 
-</p>
-
 When I look again at some pictures like those ones  
 
 [![][]][]
 
-</p>
-
 [![][1]][]
-
-</p>
 
 [![][2]][]
 
-</p>
-
 I wish to go there again... I looked to go there again from New-Zealand,
 but it's too expensive.
-
-</p>
 
 But I have a story to tell you as well about how I left Bangkok.
 Apparently I wasn't the only one who didn't want me to leave Thailand.  
@@ -72,8 +60,6 @@ holidays :-)
 And then... I ran out in the street and met up with some people for
 another "last day in Bangkok" ;-) but I was soooooo tired, I didn't last
 so long that night.
-
-</p>
 
   []: http://photos.shakeyourlife.com/cache/Thailand/Bangkok/2008-12-18-18h44m35.JPG_w480.jpg
   [![][]]: http://photos.shakeyourlife.com/Thailand/Bangkok/2008-12-18-18h44m35.JPG.php

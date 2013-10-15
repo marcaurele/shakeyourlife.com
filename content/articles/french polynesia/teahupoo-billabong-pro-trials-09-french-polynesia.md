@@ -12,15 +12,11 @@ what the trials should start today or tomorrow, so what Patrick and she
 will go there tomorrow. So I stayed on Tahiti and went diving for the
 day instead.
 
-</p>
-
 We went the night before at Patrick's place to have dinner with him and
 to avoid waking up at 3-4am from Noemie's place. We had such a great
 Tahitian dinner at his place. I love this food!  
 
 [![][1]][]
-
-</p>
 
 Early morning we left to be there by 6am, to be sure to have a good spot
 on the water as Noemie and me were going to shoot the event all day long
@@ -32,52 +28,28 @@ Noemie and I were up on the dingy to shoot all the surfers just behind
 the official Billabong press boats. Nothing more to say, just enjoy the
 pictures...
 
-</p>
-
 [![][2]][]
-
-</p>
 
 [![][3]][]
 
-</p>
-
 [![][4]][]
-
-</p>
 
 [![][5]][]
 
-</p>
-
 [![][6]][]
-
-</p>
 
 [![][7]][]
 
-</p>
-
 [![][8]][]
-
-</p>
 
 [![][9]][]
 
-</p>
-
 [![][10]][]
-
-</p>
 
 [![][11]][]
 
-</p>
-
 More at
 [http://photos.shakeyourlife.com/French%20Polynesia/Teahupoo%20Billabong%...][]
-
-</p>
 
   []: http://photos.shakeyourlife.com/cache/French%20Polynesia/Teahupoo%20Billabong%20Pro%20Trials%2009/2009-05-05-06h35m04.JPG_w480.jpg
   [![][]]: http://photos.shakeyourlife.com/French%20Polynesia/Teahupoo%20Billabong%20Pro%20Trials%2009/2009-05-05-06h35m04.JPG.php

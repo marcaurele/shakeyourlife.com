@@ -33,8 +33,6 @@ about this kind of stuff. One year with almost no "news", except of the
 local ones. Why should I bother about some financial, london city
 problem anymore...
 
-</p>
-
 Now I have 11 hours of flight until we land at Bangkok airport. I
 enjoyed my first thaï meal and finished typing the log-book I wrote on
 the expedition in Argentina in 2006 (it will come up on the website). No
@@ -62,8 +60,6 @@ Everest over the clouds. It was far away and looked really impressive.
 First time I could see this summit from my own eyes, what a feeling for
 a mountain lover like me! But it didn’t get higher on my summits’ list
 though. It’s still something too commercial for me.
-
-</p>
 
 When I got out of the plane... usch it’s warm and wet here... (still
 with my down jacket in the hands by the way). First thing: the visa. You
@@ -110,8 +106,6 @@ really the price, because the guy looked desperate when he stopped
 bargain on the price I was told since somehow he knew I was telling him
 the right price.
 
-</p>
-
 And yesterday, I kind of enjoyed a first truly long time backpacker day.
 I prepared the things I wanted to take with me to the Buddhist temple
 and went down on the terrace for the breakfast. I sat down with an
@@ -123,6 +117,4 @@ going to the temple since I could do it another day... I much preferred
 to stay with them discussing about psychological, philosophical, life
 subjects actually. And yeah, for once, I don’t need to rush. It’s so
 nice to travel when you have time.
-
-</p>
 
