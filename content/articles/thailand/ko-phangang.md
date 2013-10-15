@@ -31,10 +31,8 @@ I didn’t spend so much time at all on this island, but it doesn’t look
 like my favorite one. Next time I would take a bike tour around the
 islands to see the beaches. They might be nice somewhere.
 
-![Hat rin party 4 days after the full moon one][]
+[![Hat rin party 4 days after the full moon one](http://photos.shakeyourlife.com/cache/Thailand/Ko%20Phangang/2008-12-15-01h23m35.JPG_w480.jpg)](http://photos.shakeyourlife.com/Thailand/Ko%20Phangang/2008-12-15-01h23m35.JPG.php)
 
 All the pictures (not so many) on  
 
 <http://photos.shakeyourlife.com/Thailand/Ko%20Phangang/>
-
-  [Hat rin party 4 days after the full moon one]: http://photos.shakeyourlife.com/zp-core/i.php?a=Thailand%2FKo+Phangang&i=2008-12-15-01h23m35.JPG&w=480

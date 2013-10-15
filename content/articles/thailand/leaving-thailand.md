@@ -17,11 +17,11 @@ scooter... they look bad!
 
 When I look again at some pictures like those ones  
 
-[![][]][]
+[![](http://photos.shakeyourlife.com/cache/Thailand/Bangkok/2008-12-18-18h44m35.JPG_w480.jpg)](http://photos.shakeyourlife.com/Thailand/Bangkok/2008-12-18-18h44m35.JPG.php)
 
-[![][1]][]
+[![](http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG_w480.jpg)](http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG.php)
 
-[![][2]][]
+[![](http://photos.shakeyourlife.com/cache/Thailand/Ko%20PhiPhi/2008-12-08-23h48m52.JPG_w480.jpg)](http://photos.shakeyourlife.com/Thailand/Ko%20PhiPhi/2008-12-08-23h48m52.JPG.php)
 
 I wish to go there again... I looked to go there again from New-Zealand,
 but it's too expensive.
@@ -60,10 +60,3 @@ holidays :-)
 And then... I ran out in the street and met up with some people for
 another "last day in Bangkok" ;-) but I was soooooo tired, I didn't last
 so long that night.
-
-  []: http://photos.shakeyourlife.com/cache/Thailand/Bangkok/2008-12-18-18h44m35.JPG_w480.jpg
-  [![][]]: http://photos.shakeyourlife.com/Thailand/Bangkok/2008-12-18-18h44m35.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/Thailand/Ko%20PhiPhi/2008-12-08-23h48m52.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/Thailand/Ko%20PhiPhi/2008-12-08-23h48m52.JPG.php

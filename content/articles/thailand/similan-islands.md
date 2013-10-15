@@ -41,17 +41,13 @@ you’re wearing a wetsuit. On Surin island, you can camp in tents or
 bungalows, which must be so nice. Imagine to wake up in the morning and
 what have you in front of you... A perfect bay, exactly this one  
 
-![][]
+[![](http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-09h53m24.JPG_h480.jpg)](http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/2008-12-10-09h53m24.JPG.php)
 
 And each sunset and sunrise are magic...  
-
-![][1]
+[![](http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG_w480.jpg)](http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG.php)
 
 This diving trip is really beautiful and I’ll try to do it again next
 time I’m going in Thailand.
 
 All the pictures are at this address
 <http://photos.shakeyourlife.com/Thailand/KhaoLak%20And%20Similan/>
-
-  []: http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-09h53m24.JPG_h480.jpg
-  [1]: http://photos.shakeyourlife.com/cache/Thailand/KhaoLak%20And%20Similan/2008-12-10-18h27m19.JPG_w480.jpg
