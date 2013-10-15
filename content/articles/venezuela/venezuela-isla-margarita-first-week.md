@@ -35,7 +35,7 @@ I should be able to find a board in Venezuela, or I hope so at least...
 One hour before my flight everything is sorted out and I'm ready to be
 on a plane for several hours, back to the sea again :-)
 
-[![][]][]
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-08h13m48.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-02-08h13m48.JPG.php)
 
 Out of the plane... huuummm it's kind of back to Asia style, back to
 easy life and "try not to be screwed nor robbed" ;-) But that's the kind
@@ -52,9 +52,9 @@ orange juice; what a good start! After we drive to my host family and I
 have the pleasure to meet Graciela and her big house with my very nice
 room for the next 3 weeks.  
 
-[![][1]][]  
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-09h58m07.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-02-09h58m07.JPG.php)  
 
-[![][2]][]
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-09h58m26.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-02-09h58m26.JPG.php)
 
 On Monday morning, direction the school and I have the chance to have a
 teacher for myself since I'm the only beginner :-), Gonzalo. It feels a
@@ -81,11 +81,11 @@ Parguito, a less crowed one with almost no wave. Relaxing, reading,
 talking and drinking... Drinking is the main activity of any Venezuelan
 on the beach, and not only the young ones!  
 
-[![][3]][]  
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-14h33m18.JPG_h480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-06-14h33m18.JPG.php)  
 
-[![][4]][]  
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-16h32m34.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-06-16h32m34.JPG.php)  
 
-[![][5]][]
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-16h45m27.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-06-16h45m27.JPG.php)
 
 On Saturday, it was time to check out the clubs in the island and we
 even met my teacher, Gonzalo, in one bar. And back home somewhere around
@@ -95,39 +95,18 @@ go and crash on a beach, Parguito, super crowed this time! We play UNO
 twice and frenchie (me) wins twice even though they were all against me
 in the second round but bluffing still works ;-)  
 
-[![][6]][]  
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-14h59m13.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-09-14h59m13.JPG.php)  
 
-[![][7]][]  
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-17h17m14.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-09-17h17m14.JPG.php)  
 
-[![][8]][]
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-18h24m06.JPG_w480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-09-18h24m06.JPG.php)
 
 And before going home, we go and play Bingo!!! Lot of laughs !  
 
-[![][9]][]
+[![](http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-21h54m33.JPG_h480.jpg)](http://photos.shakeyourlife.com/Venezuela/2009-08-09-21h54m33.JPG.php)
 
 So far, kiting = 0 but I'm not looking at the forecast not to be too
 excited since the spot at El Yaque isn't great at all. But having fun =
 100% :-)
 
 Pictures: <http://photos.shakeyourlife.com/Venezuela/>
-
-  []: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-08h13m48.JPG_w480.jpg
-  [![][]]: http://photos.shakeyourlife.com/Venezuela/2009-08-02-08h13m48.JPG.php
-  [1]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-09h58m07.JPG_w480.jpg
-  [![][1]]: http://photos.shakeyourlife.com/Venezuela/2009-08-02-09h58m07.JPG.php
-  [2]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-02-09h58m26.JPG_w480.jpg
-  [![][2]]: http://photos.shakeyourlife.com/Venezuela/2009-08-02-09h58m26.JPG.php
-  [3]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-14h33m18.JPG_h480.jpg
-  [![][3]]: http://photos.shakeyourlife.com/Venezuela/2009-08-06-14h33m18.JPG.php
-  [4]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-16h32m34.JPG_w480.jpg
-  [![][4]]: http://photos.shakeyourlife.com/Venezuela/2009-08-06-16h32m34.JPG.php
-  [5]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-06-16h45m27.JPG_w480.jpg
-  [![][5]]: http://photos.shakeyourlife.com/Venezuela/2009-08-06-16h45m27.JPG.php
-  [6]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-14h59m13.JPG_w480.jpg
-  [![][6]]: http://photos.shakeyourlife.com/Venezuela/2009-08-09-14h59m13.JPG.php
-  [7]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-17h17m14.JPG_w480.jpg
-  [![][7]]: http://photos.shakeyourlife.com/Venezuela/2009-08-09-17h17m14.JPG.php
-  [8]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-18h24m06.JPG_w480.jpg
-  [![][8]]: http://photos.shakeyourlife.com/Venezuela/2009-08-09-18h24m06.JPG.php
-  [9]: http://photos.shakeyourlife.com/cache/Venezuela/2009-08-09-21h54m33.JPG_h480.jpg
-  [![][9]]: http://photos.shakeyourlife.com/Venezuela/2009-08-09-21h54m33.JPG.php
