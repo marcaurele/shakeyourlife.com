@@ -5,7 +5,7 @@ import os
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-OUTPUT_RETENTION = ('.git',)
+OUTPUT_RETENTION = ('.git','readme.md')
 
 AUTHOR = u'Marc-Aurèle Brothier'
 
@@ -66,7 +66,7 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 
-STATIC_PATHS = ['images','calendar-web', 'robots.txt']
+STATIC_PATHS = ['images','calendar-web', 'robots.txt', 'CNAME']
 #EXTRA_PATH_METADATA = {
 #    'extra/robots.txt': {'path': 'robots.txt'},
 #}
