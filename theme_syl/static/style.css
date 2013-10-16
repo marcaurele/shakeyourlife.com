@@ -42,7 +42,7 @@ div#page {
 	border-right: 10px solid #d1ba88;
 }
 div#header {
-	background:transparent url(design/bg_pict_header.png) no-repeat center 10px;
+	/*background:transparent url(design/bg_pict_header.png) no-repeat center 10px;*/
 	height:297px;
 }
 div#header a {
@@ -55,7 +55,6 @@ span#slogan {
 }
 span#banner-pict {
 	display:block;
-	background:transparent url(banner/rotate.php) no-repeat 0px;
 	width:880px;
 	height:231px;
 	margin-top:12px;

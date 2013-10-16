@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }} | {{ SITENAME }}{%endblock%}
+
+{% block content %}
+
+<h2>{{ page.title }}</h2>
+<div style="margin-top: -10px" id="node-124" class="post node">
+    <span class="post-calendar">{{page.locale_date}}</span>
+    <div class="post-content">
+    {{ page.content }}
+    </div>
+    {% if page.tags %}
+    <div class="post-cat"><ul class="links inline">
+    	{% for tag in page.tags %}
+    	<li><a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{tag}}</a></li>
+    	{% endfor %}
+	</ul></div>
+	{% endif %}
+</div>
+
+{% endblock %}

@@ -1,11 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
 
-{# include 'welcome.html' #}
+
 {% block content_title %}
+<h1>Archives for {{ SITENAME }}</h1>
 {% endblock %}
 
-{% for article in articles_page.object_list %}
+{% for article in dates %}
 <div class="post node">
 	<div class="post-date"><span class="post-year">{{ article.date.strftime('%Y') }}</span> <span class="post-month">{{ article.date.strftime('%b') }}</span> <span class="post-day">{{ article.date.strftime('%d') }}</span></div>
 	<div class="entry">
@@ -26,6 +27,5 @@
 <div class="clear"></div>
 {% endfor %}
 
-{% include 'pagination.html' %}
-
 {% endblock content %}
+

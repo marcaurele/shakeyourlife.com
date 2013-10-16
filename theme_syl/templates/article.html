@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title|striptags }} | {{ SITENAME }}{%endblock%}
+
+{% block content %}
+
+<h2>{{ article.title }}</h2>
+<div style="margin-top: -10px" id="node-124" class="post node">
+    <span class="post-calendar">{{ article.locale_date }}</span>
+    <div class="post-content">
+    {{ article.content }}
+    </div>
+    {% if article.tags %}
+    <div class="post-cat"><ul class="links inline">
+    	{% for tag in article.tags %}
+    	<li><a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{tag}}</a></li>
+    	{% endfor %}
+	</ul></div>
+	{% endif %}
+</div>
+
+<!--
+      <a href="{{ article.url }}" rel="bookmark"
+         title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
+<abbr class="published" title="{{ article.date.isoformat() }}">
+      {{ article.locale_date }}
+    </abbr>
+{% if article.author %}
+      By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
+      <a href="/{{ article.category.url }}">{{ article.category }}</a>
+{% endif %}
+-->
+{% endblock %}
