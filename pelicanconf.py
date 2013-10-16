@@ -62,9 +62,7 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-LINKS =  (('Biking the Great Divide \'09', 'http://www.bikingthegreatdivide.com'),
-          )
+STATIC_PATHS = ['images','calendar-web']
 
 # A list of files to copy from the source to the destination
 FILES_TO_COPY = (

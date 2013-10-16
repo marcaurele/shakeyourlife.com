@@ -9,10 +9,10 @@
 <div class="post node">
 	<div class="post-date"><span class="post-year">{{ article.date.strftime('%Y') }}</span> <span class="post-month">{{ article.date.strftime('%b') }}</span> <span class="post-day">{{ article.date.strftime('%d') }}</span></div>
 	<div class="entry">
-		<h2><a href="/{{ article.url }}" rel="bookmark" title="Permanent Link to {{ article.title }}">{{ article.title }}</a></h2>
+		<h2><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permanent Link to {{ article.title }}">{{ article.title }}</a></h2>
 		<div class="post-content">
 			<p>{{ article.summary }}
-			<span class="read-more"><a href="/{{ article.url }}" title="Read the whole post" rel="nofollow"><strong>Read more &raquo;</strong></a></span></p>
+			<span class="read-more"><a href="{{ SITEURL }}/{{ article.url }}" title="Read the whole post" rel="nofollow"><strong>Read more &raquo;</strong></a></span></p>
 		</div>
 		{% if article.tags %}
 		<div class="post-cat"><ul class="links inline">

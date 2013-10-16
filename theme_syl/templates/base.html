@@ -3,23 +3,14 @@
   <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-  <!--link rel="alternate" type="application/rss+xml"  title="ShakeYourLife - Blog posts" href="/rss.xml" /-->
-  <!--link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon" /-->
-  <!--
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/node.css" />
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/defaults.css" /-->
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/system.css" />
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/system-menus.css" />
-  <!--link type="text/css" rel="stylesheet" media="all" href="/theme/user.css" />
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/blockquote.css" />
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/blockquote-neutralise.css" />
-  -->
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/style.css" />
-  <script type="text/javascript" src="/theme/js/jquery.min.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="{{ SITEURL }}/theme/system.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="{{ SITEURL }}/theme/system-menus.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="{{ SITEURL }}/theme/style.css" />
+  <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
   
   <!-- Carousel -->
-  <script type="text/javascript" src="/theme/js/jquery.bxslider.min.js"></script>
-  <link type="text/css" rel="stylesheet" media="all" href="/theme/js/jquery.bxslider.css" />
+  <script type="text/javascript" src="{{ SITEURL }}/theme/js/jquery.bxslider.min.js"></script>
+  <link type="text/css" rel="stylesheet" media="all" href="{{ SITEURL }}/theme/js/jquery.bxslider.css" />
 </head>
 
 <body id="syl">
@@ -27,7 +18,7 @@
 	<div id="special">
 		<div id="page">
 			<div id="header">
-				<a href="/"><span id="slogan"></span></a>
+				<a href="{{ SITEURL }}/"><span id="slogan"></span></a>
 				{% include 'carousel.html' %}
 			</div>
 			<span id="mission">Back to Switzerland in September 2009, but another adventure for 12 months has started in September 2012 -&gt; <a href="http://come-away-with.me">http://come-away-with.me</a></span>
@@ -45,13 +36,13 @@
 					<div class="block block-block" id="block-block-3">
 					<h2 class="title"></h2>
 						<div class="content"><div style="text-align:center;margin:auto 20px">
-							<a href="/content/sponsors.html"><img alt="" src="/images/loga-namaste.png" /></a>
+							<a href="{{ SITEURL }}/content/sponsors.html"><img alt="" src="{{ SITEURL }}/images/loga-namaste.png" /></a>
 						</div>
 						<div style="text-align:center;margin:20px auto;">
-							<a href="/content/sponsors.html"><img alt="Logo Suunto" src="/images/logo-suunto.png" /></a>
+							<a href="{{ SITEURL }}/content/sponsors.html"><img alt="Logo Suunto" src="{{ SITEURL }}/images/logo-suunto.png" /></a>
 						</div>
 						<div style="text-align:center;">
-							<a href="/content/sponsors.html"><img alt="Logo Hilleberg" src="/images/hilleberg-logo-200x50.png" /></a>
+							<a href="{{ SITEURL }}/content/sponsors.html"><img alt="Logo Hilleberg" src="{{ SITEURL }}/images/hilleberg-logo-200x50.png" /></a>
 						</div></div>
  					</div>
 				</div>
@@ -72,7 +63,7 @@
 			</div>
 			<div id="footer-middle">
 				<div class="content">
-					<p><img src="/theme/design/footer_homemade.png" title="Home made by marco" alt="Footer logo - Home made by marco" width="266" height="88" /></p>
+					<p><img src="{{ SITEURL }}/theme/design/footer_homemade.png" title="Home made by marco" alt="Footer logo - Home made by marco" width="266" height="88" /></p>
 					<p>&copy; 2009 Marc-Aur&egrave;le Brothier</p>
 				</div>
 			</div>
