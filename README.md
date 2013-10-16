@@ -1,4 +1,3 @@
-shakeyourlife.com
-=================
+# <http://shakeyourlife.com>
 
 Travel blog
