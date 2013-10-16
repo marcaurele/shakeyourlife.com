@@ -5,7 +5,7 @@ import os
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-OUTPUT_RETENTION = ('.git','readme.md')
+OUTPUT_RETENTION = ('.git','README.md')
 
 AUTHOR = u'Marc-Aurèle Brothier'
 
