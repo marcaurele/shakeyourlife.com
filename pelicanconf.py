@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Marc-Aurèle Brothier'
 
@@ -12,8 +13,13 @@ TIMEZONE = 'Europe/Paris'
 
 LOCALE = "C"
 
+THEME = os.path.join(os.path.dirname(os.path.abspath(__file__)),'theme_syl')
+
+DELETE_OUTPUT_DIRECTORY = True
 DEFAULT_LANG = u'en'
 DEFAULT_DATE_FORMAT = '%d %B %Y'
+
+DEFAULT_PAGINATION = 10
 
 SUMMARY_MAX_LENGTH = 30
 
@@ -39,28 +45,23 @@ TAG_SAVE_AS = False
 TYPOGRIFY = False
 
 #FEED_DOMAIN = SITEURL
-#FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_ATOM = None
-#FEED_ALL_RSS = 'feeds/all.rss.xml'
 FEED_ALL_RSS = None
 FEED_ATOM = None
 FEED_RSS = None
-#CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 CATEGORY_FEED_ATOM = None
 CATEGORY_FEED_RSS = None
 TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
-
-# Feed generation is usually not desired when developing
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('Biking the Great Divide \'09', 'http://www.bikingthegreatdivide.com'),
+          )
 
-DEFAULT_PAGINATION = 10
-
+# A list of files to copy from the source to the destination
+FILES_TO_COPY = (
+	('extra/robots.txt', 'robots.txt'),
+)
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
