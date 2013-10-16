@@ -3,6 +3,10 @@
 from __future__ import unicode_literals
 import os
 
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
+OUTPUT_RETENTION = ('.git',)
+
 AUTHOR = u'Marc-Aurèle Brothier'
 
 SITENAME = u'Shake Your Life'
@@ -62,11 +66,7 @@ TAG_FEED_ATOM = None
 TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 
-STATIC_PATHS = ['images','calendar-web']
-
-# A list of files to copy from the source to the destination
-FILES_TO_COPY = (
-	('extra/robots.txt', 'robots.txt'),
-)
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+STATIC_PATHS = ['images','calendar-web', 'robots.txt']
+#EXTRA_PATH_METADATA = {
+#    'extra/robots.txt': {'path': 'robots.txt'},
+#}
