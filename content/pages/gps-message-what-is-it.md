@@ -1,4 +1,4 @@
-Title: GPS message - What is it?
+Title: GPS message info
 Date: 2008-12-09 09:56
 Author: marcaurele
 Slug: gps-message-what-is-it
