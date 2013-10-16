@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="en">
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+  <!--link rel="alternate" type="application/rss+xml"  title="ShakeYourLife - Blog posts" href="/rss.xml" /-->
+  <!--link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon" /-->
+  <!--
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/node.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/defaults.css" /-->
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/system.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/system-menus.css" />
+  <!--link type="text/css" rel="stylesheet" media="all" href="/theme/user.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/blockquote.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/fckeditor.css" />
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/blockquote-neutralise.css" />
+  -->
+  <link type="text/css" rel="stylesheet" media="all" href="/theme/style.css" />
+  <!--link type="text/css" rel="stylesheet" media="all" href="/theme/maintenance.css" /-->
+  <script type="text/javascript" src="/theme/js/jquery.js"></script>
+</head>
+
+<body id="syl">
+<div id="bg-page">
+	<div id="special">
+		<div id="page">
+			<div id="header">
+				<a href="/"><span id="slogan"></span></a>
+				<a href="/"><span id="banner-pict"></span></a>
+				{# include 'carou s el.html' #}
+			</div>
+			<!--div id="breadcrumb">BREADCRUMB</div-->
+			<span id="mission">Back to Switzerland in September 2009, but another adventure for 12 months has started in September 2012 -&gt; <a href="http://come-away-with.me">http://come-away-with.me</a></span>
+			<div id="wrapper">
+				<div id="content" class="no-leftzone">
+					{% block content %}
+					{% endblock %}
+				</div>
+			</div>
+			<div id="rightzone">
+				<div id="right-main">
+					{% include 'menu.html' %}
+				</div>
+				<div id ="right-bottom">
+					SOMETHING ?
+				</div>
+			</div>
+			<div id="page-separator"></div>
+		</div><!-- end wrapper -->
+		<div id="footer-separator"></div>
+	</div>
+</div>
+  <!-- footer -->
+	<div id="footer">
+		<div id="footer-content">
+			<div id="footer-left">
+				
+			</div>
+			<div id="footer-right">
+				
+			</div>
+			<div id="footer-middle">
+				<div class="content">
+					<p><img src="/theme/design/footer_homemade.png" title="Home made by marco" alt="Footer logo - Home made by marco" width="266" height="88" /></p>
+					<p>&copy; 2009 Marc-Aur&egrave;le Brothier</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
+

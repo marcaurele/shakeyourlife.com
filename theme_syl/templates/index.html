@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+
+{# include 'welcome.html' #}
+
+
+{% for article in articles_page.object_list %}
+<div class="post node">
+	<div class="post-date"><span class="post-year">{{ article.date.strftime('%Y') }}</span> <span class="post-month">{{ article.date.strftime('%b') }}</span> <span class="post-day">{{ article.date.strftime('%d') }}</span></div>
+	<div class="entry">
+		<h2><a href="/{{ article.url }}" rel="bookmark" title="Permanent Link to {{ article.title }}">{{ article.title }}</a></h2>
+		<div class="post-content">
+			<p>{{ article.summary }}
+			<span class="read-more"><a href="/{{ article.url }}" title="Read the whole post" rel="nofollow"><strong>Read more &raquo;</strong></a></span></p>
+		</div>
+		<div class="post-cat"><ul class="links inline">
+			<li class="first"><a href="" rel="tag" title="">TAGS</a></li>
+			<li class=""><a href="" rel="tag" title="">TAGS</a></li>
+			<li class="last"><a href="" rel="tag" title="">TAGS</a></li>
+		</ul></div>
+	</div>
+</div>
+<div class="clear"></div>
+{% endfor %}
+
+{% include 'pagination.html' %}
+
+{% endblock content %}

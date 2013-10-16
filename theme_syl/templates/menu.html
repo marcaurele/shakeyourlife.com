@@ -1,0 +1,10 @@
+<div class="content">
+	<ul class="menu menu-root">
+		{% for p in PAGES %}
+		<li class="leaf"><a href="/{{ p.url }}" {% if p == page %} class="active"{% endif %}>{{ p.title }}</a></li>
+		{% endfor %}
+		{% for cat, null in categories %}
+		<li class="leaf"><a href="/{{ cat.url }}" {% if cat == category %} class="active"{% endif %}>{{ cat.title }}</a></li>
+		{% endfor %}
+	</ul>
+</div>
