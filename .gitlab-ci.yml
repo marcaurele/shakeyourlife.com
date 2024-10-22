@@ -14,5 +14,6 @@ pages:
   artifacts:
     paths:
       - output
+  publish: output
   # only:
   #   - main
