@@ -2,7 +2,7 @@
 <div class="content">
 	<ul class="menu menu-root">
 		<li class="leaf"><a href="http://www.bikingthegreatdivide.com">Biking the Great Divide '09</a></li>
-		{% for p in PAGES %}
+		{% for p in pages %}
 		<li class="leaf"><a href="{{ SITEURL }}/{{ p.url }}" {% if p == page %} class="active"{% endif %}>{{ p.title }}</a></li>
 		{% endfor %}
 		{% if DISPLAY_CATEGORIES_ON_MENU -%}
