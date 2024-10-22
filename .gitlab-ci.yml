@@ -10,7 +10,8 @@ pages:
     - source $HOME/.cargo/env
   script:
     - uv sync
-    - uv run pelican -s publishconf.py
+    - uv run pelican
+    # - uv run pelican -s publishconf.py
   artifacts:
     paths:
       - output
