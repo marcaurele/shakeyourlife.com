@@ -1,0 +1,18 @@
+---
+image: python:3.8-alpine
+
+pages:
+  stage: deploy
+  before_script:
+    - apk add curl
+    - curl -LsSfO https://astral.sh/uv/install.sh
+    - sh ./install.sh
+    - source $HOME/.cargo/env
+  script:
+    - uv sync
+    - uv run pelican -s publishconf.py
+  artifacts:
+    paths:
+      - output
+  # only:
+  #   - main
