@@ -22,10 +22,10 @@ doing right now ;-)
 
 And if you better understand with pictures, here are the steps
 
-![GPS step 1]({filename}/images/slide-01.png)
+![GPS step 1]({static}/images/slide-01.png)
 
-![GPS step 2]({filename}/images/slide-02.png)
+![GPS step 2]({static}/images/slide-02.png)
 
-![GPS step 3]({filename}/images/slide-03.png)
+![GPS step 3]({static}/images/slide-03.png)
 
-![GPS message on website]({filename}/images/slide-04.png)
+![GPS message on website]({static}/images/slide-04.png)
