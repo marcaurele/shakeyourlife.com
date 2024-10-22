@@ -1,3 +1,3 @@
-# <http://shakeyourlife.com>
+# ShakeYourLife
 
-Travel blog
+Travel blog at <https://shakeyourlife.brothier.org>.
