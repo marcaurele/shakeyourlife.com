@@ -2,12 +2,12 @@
 <div class="content">
 	<ul class="menu menu-root">
 		<li class="leaf"><a href="http://www.bikingthegreatdivide.com">Biking the Great Divide '09</a></li>
-		{% for p in PAGES %}
-		<li class="leaf"><a href="{{ SITEURL }}/{{ p.url }}" {% if p == page %} class="active"{% endif %}>{{ p.title }}</a></li>
+		{% for p in pages %}
+		<li class="leaf"><a href="{{ SITEURL }}{{ p.url }}" {% if p == page %} class="active"{% endif %}>{{ p.title }}</a></li>
 		{% endfor %}
 		{% if DISPLAY_CATEGORIES_ON_MENU -%}
 		{% for cat, null in categories %}
-		<li class="leaf"><a href="{{ SITEURL }}/{{ cat.url }}" {% if cat == category %} class="active"{% endif %}>{{ cat|capitalize }}</a></li>
+		<li class="leaf"><a href="{{ SITEURL }}{{ cat.url }}" {% if cat == category %} class="active"{% endif %}>{{ cat|capitalize }}</a></li>
 		{% endfor %}
 		{% endif %}
 	</ul>

@@ -12,11 +12,11 @@
     </div>
     {% if article.tags %}
     <div class="post-cat"><ul class="links inline">
-    	{% for tag in article.tags %}
-    	<li><a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{tag}}</a></li>
-    	{% endfor %}
-	</ul></div>
-	{% endif %}
+      {% for tag in article.tags %}
+        <li><a href="{{ SITEURL }}{{ tag.url }}" rel="tag">{{tag}}</a></li>
+      {% endfor %}
+    </ul></div>
+    {% endif %}
 </div>
 
 <!--
@@ -26,7 +26,7 @@
       {{ article.locale_date }}
     </abbr>
 {% if article.author %}
-      By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
+      By <a class="url fn" href="{{ SITEURL }}{{ article.author.url }}">{{ article.author }}</a>
       <a href="/{{ article.category.url }}">{{ article.category }}</a>
 {% endif %}
 -->
