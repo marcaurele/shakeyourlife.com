@@ -1,13 +1,10 @@
 ---
-image: python:3.8-alpine
+image: ghcr.io/astral-sh/uv:python3.8-alpine
 
 pages:
   stage: deploy
   before_script:
-    - apk add curl
-    - curl -LsSfO https://astral.sh/uv/install.sh
-    - sh ./install.sh
-    - source $HOME/.cargo/env
+    - uv --version
   script:
     - uv sync
     # - uv run pelican
