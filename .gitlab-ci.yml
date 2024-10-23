@@ -1,17 +1,30 @@
 ---
+
 image: ghcr.io/astral-sh/uv:python3.8-alpine
 
-pages:
-  stage: deploy
+test:
+  stage: test
+  rules:
+    - if: $CI_MERGE_REQUEST_TARGET_BRANCH_NAME != $CI_DEFAULT_BRANCH
   before_script:
     - uv --version
   script:
     - uv sync
-    # - uv run pelican
+    - uv run pelican --fatal errors
+  artifacts:
+    paths:
+      - output
+
+pages:
+  stage: deploy
+  rules:
+    - if: $CI_MERGE_REQUEST_TARGET_BRANCH_NAME == $CI_DEFAULT_BRANCH
+  before_script:
+    - uv --version
+  script:
+    - uv sync
     - uv run pelican -s publishconf.py
   artifacts:
     paths:
       - output
   publish: output
-  only:
-    - main
