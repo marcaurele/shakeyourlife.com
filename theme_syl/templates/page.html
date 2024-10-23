@@ -13,7 +13,7 @@
     {% if page.tags %}
     <div class="post-cat"><ul class="links inline">
     	{% for tag in page.tags %}
-    	<li><a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{tag}}</a></li>
+    	<li><a href="{{ SITEURL }}{{ tag.url }}" rel="tag">{{tag}}</a></li>
     	{% endfor %}
 	</ul></div>
 	{% endif %}
